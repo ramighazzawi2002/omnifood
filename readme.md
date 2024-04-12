@@ -15,10 +15,8 @@ Omnifood is a responsive web design project that I designed as part of Jonas Sch
 1. **Clone the repository**: If you have git installed, you can clone the repository by running the following command in your terminal:
 
    ```
-   git clone https://github.com/username/omnifood.git
+   git clone git@github.com:ramighazzawi2002/omnifood.git
    ```
-
-   Replace username with the actual username of the repository owner.
 
 2. **Download ZIP**: If you don't have git installed, you can download the project as a ZIP file. Go to the project's GitHub page, click on the Code button, and then click Download ZIP.
 
